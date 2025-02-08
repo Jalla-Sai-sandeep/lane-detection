@@ -50,9 +50,8 @@ This will open a browser window with the **Lane Detection UI**.
 3. **View the detected lanes** in real-time!
 
 ---
+![SemiFinal](https://github.com/user-attachments/assets/100ef7e6-ec49-4a99-b2ec-6b7c93ad286e)
 
-## 🖼️ Sample Screenshot
-![Lane Detection Screenshot](https://via.placeholder.com/800x400?text=Lane+Detection+App)
 
 ---
 
