@@ -43,15 +43,6 @@ The Hough transform is a feature extraction technique used in image computer vis
 
 After applying all the above concept, we finally get our required edges of lane lines traced on black pixels, which we then merge with our original image by weighted additions, and voila! we have detected the lane lines.
 Our final merged image, indicating lane lines will look like this:
-<p align="center">
-<img src = "https://github.com/sampadabareja/Lane-Detection/blob/master/Result%20Images/Finalimage.jpeg" width="500" height="300">
-</p>
-<p align="center">
-</p>
-<p align="center">
-<a href = "https://github.com/anushkagarg5653"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/anushka-garg-b6759318a/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
 
